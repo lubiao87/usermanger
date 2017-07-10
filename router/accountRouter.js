@@ -17,6 +17,7 @@ router.get('/vcode',accountController.vcode);
 //注册
 router.get('/register',accountController.register);
 router.get('/index',accountController.index);
+router.get('',accountController.index);
 router.post('/registerdata',accountController.registerdata);
 
 

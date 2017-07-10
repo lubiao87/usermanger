@@ -28,6 +28,7 @@ app.use('/account',accountRouer);
 app.use('/news',accountRouer);
 app.use('/account',accountRouer);
 app.use('/index',accountRouer);
+app.use('',accountRouer);
 
 app.listen(3001,(err)=>{
     if(err)console.log(err);
