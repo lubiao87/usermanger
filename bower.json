@@ -1,0 +1,22 @@
+{
+  "name": "usermanger",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cleverhacker <cleverhacker@126.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
