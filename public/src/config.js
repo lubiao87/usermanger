@@ -7,7 +7,7 @@ require.config( {
 
         jquery: '/bower_components/jquery/dist/jquery',
         md5: '/md5',
-        cookie: '/bower_components/jquery.cookie',
+        cookie: '/bower_components/jquery.cookie/jquery.cookie',
         // progress: 'assets/nprogress/nprogress',
         // bootstrap: 'lib/bootstrap.min',
         // datepicker: 'assets/bootstrap-datepicker/js/bootstrap-datepicker.min',
